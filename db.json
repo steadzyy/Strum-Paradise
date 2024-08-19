@@ -1,0 +1,547 @@
+{
+  "users": [],
+  "wishlist": [],
+  "products": [
+      {
+        "name": "Fender Player II Telecaster Electric Guitar, Maple FB, Coral Red",
+        "slug": "fender-player-ii-telecaster-electric-guitar-maple-fb-coral-red",
+        "description": "Fender Player II Telecaster Electric Guitar with Maple Fingerboard in Coral Red color.",
+        "excerpt": "A stunning electric guitar with a vibrant Coral Red finish.",
+        "price": 17180000,
+        "tags": ["Fender", "Electric Guitar", "Telecaster"],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0117/8740/3323/products/40b177b5-9d65-4332-b535-9d4b0555875b_721124448690_496x496_crop_center.jpg?v=1721893972",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0117/8740/3323/products/40b177b5-9d65-4332-b535-9d4b0555875b_721124448690_496x496_crop_center.jpg?v=1721893972"
+        ]
+      },
+      {
+        "name": "Fender Player II Telecaster Electric Guitar, Maple FB, 3 Tone Sunburst",
+        "slug": "fender-player-ii-telecaster-electric-guitar-maple-fb-3-tone-sunburst",
+        "description": "Fender Player II Telecaster Electric Guitar with Maple Fingerboard in 3 Tone Sunburst color.",
+        "excerpt": "A classic Telecaster with a beautiful 3 Tone Sunburst finish.",
+        "price": 17180000,
+        "tags": ["Fender", "Electric Guitar", "Telecaster"],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0117/8740/3323/products/12c86d5d-07c6-4e2b-bc8a-742ca0678320_721123522890_496x496_crop_center.jpg?v=1721892341",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0117/8740/3323/products/12c86d5d-07c6-4e2b-bc8a-742ca0678320_721123522890_496x496_crop_center.jpg?v=1721892341"
+        ]
+      },
+      {
+        "name": "Fender Player II Telecaster Electric Guitar, RW FB, Birch Green",
+        "slug": "fender-player-ii-telecaster-electric-guitar-rw-fb-birch-green",
+        "description": "Fender Player II Telecaster Electric Guitar with Rosewood Fingerboard in Birch Green color.",
+        "excerpt": "Distinctive Birch Green finish on this Telecaster.",
+        "price": 17180000,
+        "tags": ["Fender", "Electric Guitar", "Telecaster"],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0117/8740/3323/products/a691d280-1554-4c2d-860d-f414a0d36dd2_721122937800_496x496_crop_center.jpg?v=1721892239",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0117/8740/3323/products/a691d280-1554-4c2d-860d-f414a0d36dd2_721122937800_496x496_crop_center.jpg?v=1721892239"
+        ]
+      },
+      {
+        "name": "Fender Player II Telecaster Electric Guitar, RW FB, Aquatone Blue",
+        "slug": "fender-player-ii-telecaster-electric-guitar-rw-fb-aquatone-blue",
+        "description": "Fender Player II Telecaster Electric Guitar with Rosewood Fingerboard in Aquatone Blue color.",
+        "excerpt": "Aquatone Blue Telecaster with a sleek finish.",
+        "price": 17180000,
+        "tags": ["Fender", "Electric Guitar", "Telecaster"],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0117/8740/3323/products/28727c1f-67d7-4e45-85f5-168541c6a236_721122230620_496x496_crop_center.jpg?v=1721892334",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0117/8740/3323/products/28727c1f-67d7-4e45-85f5-168541c6a236_721122230620_496x496_crop_center.jpg?v=1721892334"
+        ]
+      },
+      {
+        "name": "Fender Player II Telecaster Electric Guitar, RW FB, Polar White",
+        "slug": "fender-player-ii-telecaster-electric-guitar-rw-fb-polar-white",
+        "description": "Fender Player II Telecaster Electric Guitar with Rosewood Fingerboard in Polar White color.",
+        "excerpt": "Elegant Polar White Telecaster with classic appeal.",
+        "price": 17180000,
+        "tags": ["Fender", "Electric Guitar", "Telecaster"],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0117/8740/3323/products/79ec0576-8c45-4b41-9b9e-e90d6791c0ee_721121596900_496x496_crop_center.jpg?v=1721891745",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0117/8740/3323/products/79ec0576-8c45-4b41-9b9e-e90d6791c0ee_721121596900_496x496_crop_center.jpg?v=1721891745"
+        ]
+      },
+      {
+        "name": "Fender Player II Stratocaster HSS Electric Guitar, Maple FB, Hialeah Yellow",
+        "slug": "fender-player-ii-stratocaster-hss-electric-guitar-maple-fb-hialeah-yellow",
+        "description": "Fender Player II Stratocaster HSS Electric Guitar with Maple Fingerboard in Hialeah Yellow color.",
+        "excerpt": "Bright Hialeah Yellow Stratocaster with HSS configuration.",
+        "price": 17845000,
+        "tags": ["Fender", "Electric Guitar", "Stratocaster"],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0117/8740/3323/products/8b69f5c2-5e37-4f56-8eb5-810fb760e4a4_721120227320_496x496_crop_center.jpg?v=1721891735",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0117/8740/3323/products/8b69f5c2-5e37-4f56-8eb5-810fb760e4a4_721120227320_496x496_crop_center.jpg?v=1721891735"
+        ]
+      },
+      {
+        "name": "Fender Player II Stratocaster HSS Electric Guitar, Maple FB, Aquatone Blue",
+        "slug": "fender-player-ii-stratocaster-hss-electric-guitar-maple-fb-aquatone-blue",
+        "description": "Fender Player II Stratocaster HSS Electric Guitar with Maple Fingerboard in Aquatone Blue color.",
+        "excerpt": "Aquatone Blue Stratocaster with HSS configuration.",
+        "price": 17845000,
+        "tags": ["Fender", "Electric Guitar", "Stratocaster"],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0117/8740/3323/products/64a92b85-e5e1-4450-b47e-f5f9b5170714_721119951020_496x496_crop_center.jpg?v=1721891718",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0117/8740/3323/products/64a92b85-e5e1-4450-b47e-f5f9b5170714_721119951020_496x496_crop_center.jpg?v=1721891718"
+        ]
+      },
+      {
+        "name": "Fender Player II Stratocaster HSS Electric Guitar, Maple FB, Black",
+        "slug": "fender-player-ii-stratocaster-hss-electric-guitar-maple-fb-black",
+        "description": "Fender Player II Stratocaster HSS Electric Guitar, Maple FB, Black",
+        "excerpt": "Fender Player II Stratocaster HSS Electric Guitar in Black with Maple Fingerboard.",
+        "price": 17845000,
+        "tags": ["Fender", "Electric Guitar", "Stratocaster"],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0117/8740/3323/products/09f48269-0fc1-403b-b882-cdbb9f57c8e2_721119633690_496x496_crop_center.jpg?v=1721891706",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0117/8740/3323/products/09f48269-0fc1-403b-b882-cdbb9f57c8e2_721119633690_496x496_crop_center.jpg?v=1721891706"
+        ]
+      },
+      {
+        "name": "Ibanez TOD10 Tim Henson Signature Electric Guitar, Classic Silver (B-Stock)",
+        "slug": "ibanez-tod10-tim-henson-signature-electric-guitar-classic-silver-b-stock",
+        "description": "Ibanez TOD10 Tim Henson Signature Electric Guitar in Classic Silver (B-Stock)",
+        "excerpt": "Ibanez TOD10 Tim Henson Signature Electric Guitar, Classic Silver finish.",
+        "price": 23395000,
+        "tags": ["Ibanez", "Electric Guitar", "Signature"],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0117/8740/3323/files/8a2e4f0c-a78d-49da-a117-fdfa50865829c_496x496_crop_center.jpg?v=1720488748",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0117/8740/3323/files/8a2e4f0c-a78d-49da-a117-fdfa50865829c_496x496_crop_center.jpg?v=1720488748"
+        ]
+      },
+      {
+        "name": "Ibanez Iceman IC420FM-VLS Electric Guitar w/IC Bag, Violin Sunburst",
+        "slug": "ibanez-iceman-ic420fm-vls-electric-guitar-w-ic-bag-violin-sunburst",
+        "description": "Ibanez Iceman IC420FM-VLS Electric Guitar with IC Bag in Violin Sunburst.",
+        "excerpt": "Ibanez Iceman IC420FM in Violin Sunburst with IC Bag included.",
+        "price": 12335000,
+        "tags": ["Ibanez", "Electric Guitar", "Iceman"],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0117/8740/3323/files/9c5f09f8-4b73-47b5-a81d-705323037920_496x496_crop_center.jpg?v=1719217725",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0117/8740/3323/files/9c5f09f8-4b73-47b5-a81d-705323037920_496x496_crop_center.jpg?v=1719217725"
+        ]
+      },
+      {
+        "name": "Ibanez AAM740E-LG Acoustic-Electric Guitar w/Case, Low Gloss",
+        "slug": "ibanez-aam740e-lg-acoustic-electric-guitar-w-case-low-gloss",
+        "description": "Ibanez AAM740E-LG Acoustic-Electric Guitar with Case in Low Gloss.",
+        "excerpt": "Ibanez AAM740E-LG Acoustic-Electric Guitar in Low Gloss with Case.",
+        "price": 36400000,
+        "tags": ["Ibanez", "Acoustic-Electric Guitar", "AAM740E"],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0117/8740/3323/files/f06b08a4-41e4-437a-84e7-705390128640_496x496_crop_center.jpg?v=1719217727",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0117/8740/3323/files/f06b08a4-41e4-437a-84e7-705390128640_496x496_crop_center.jpg?v=1719217727"
+        ]
+      },
+      {
+        "name": "Ibanez Iceman IC420-ABM Electric Guitar w/IC Bag, Antique Blue Metallic",
+        "slug": "ibanez-iceman-ic420-abm-electric-guitar-w-ic-bag-antique-blue-metallic",
+        "description": "Ibanez Iceman IC420-ABM Electric Guitar with IC Bag in Antique Blue Metallic.",
+        "excerpt": "Ibanez Iceman IC420-ABM in Antique Blue Metallic with IC Bag.",
+        "price": 11685000,
+        "tags": ["Ibanez", "Electric Guitar", "Iceman"],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0117/8740/3323/files/3fbcfa72-03ea-485d-9a8a-705323590020_496x496_crop_center.jpg?v=1719217724",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0117/8740/3323/files/3fbcfa72-03ea-485d-9a8a-705323590020_496x496_crop_center.jpg?v=1719217724"
+        ]
+      },
+      {
+        "name": "Ibanez AAM700CE-NT Acoustic-Electric Guitar w/Case, Natural",
+        "slug": "ibanez-aam700ce-nt-acoustic-electric-guitar-w-case-natural",
+        "description": "Ibanez AAM700CE-NT Acoustic-Electric Guitar with Case in Natural.",
+        "excerpt": "Ibanez AAM700CE-NT Acoustic-Electric Guitar in Natural with Case.",
+        "price": 37725000,
+        "tags": ["Ibanez", "Acoustic-Electric Guitar", "AAM700CE"],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0117/8740/3323/files/596e7b16-8934-4d9b-8a4e-705390595700_496x496_crop_center.jpg?v=1719217727",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0117/8740/3323/files/596e7b16-8934-4d9b-8a4e-705390595700_496x496_crop_center.jpg?v=1719217727"
+        ]
+      },
+      {
+        "name": "Ibanez AAM780E-NT Acoustic-Electric Guitar w/Case, Natural",
+        "slug": "ibanez-aam780e-nt-acoustic-electric-guitar-w-case-natural",
+        "description": "Ibanez AAM780E-NT Acoustic-Electric Guitar with Case in Natural.",
+        "excerpt": "Ibanez AAM780E-NT Acoustic-Electric Guitar in Natural with Case.",
+        "price": 38985000,
+        "tags": ["Ibanez", "Acoustic-Electric Guitar", "AAM780E"],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0117/8740/3323/files/1c1b66d8-28e7-430e-b7d0-705389733800_496x496_crop_center.jpg?v=1719217728",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0117/8740/3323/files/1c1b66d8-28e7-430e-b7d0-705389733800_496x496_crop_center.jpg?v=1719217728"
+        ]
+      },
+      {
+        "name": "Ibanez Prestige RGR752AHBF-WK Electric Guitar w/Case, Weathered Black",
+        "slug": "ibanez-prestige-rgr752ahbf-wk-electric-guitar",
+        "description": "Ibanez Prestige RGR752AHBF-WK Electric Guitar with a weathered black finish and a case.",
+        "excerpt": "Electric guitar with weathered black finish and case.",
+        "price": 27545000,
+        "tags": ["Ibanez", "Electric Guitar", "Prestige"],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0117/8740/3323/files/c8efaa4c-8022-4f86-81c2-535614792496_496x496_crop_center.jpg?v=1719217731",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0117/8740/3323/files/c8efaa4c-8022-4f86-81c2-535614792496_496x496_crop_center.jpg?v=1719217731"
+        ]
+      },
+      {
+        "name": "Ibanez TCY10E-BK Acoustic/Electric Guitar, RW FB, Black",
+        "slug": "ibanez-tcy10e-bk-acoustic-electric-guitar",
+        "description": "Ibanez TCY10E-BK Acoustic/Electric Guitar with rosewood fretboard in black color.",
+        "excerpt": "Acoustic/Electric guitar with rosewood fretboard in black.",
+        "price": 3970000,
+        "tags": ["Ibanez", "Acoustic Guitar", "Electric Guitar"],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0117/8740/3323/files/6fd5899b-35b4-4696-87b7-578295445820_496x496_crop_center.jpg?v=1719217726",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0117/8740/3323/files/6fd5899b-35b4-4696-87b7-578295445820_496x496_crop_center.jpg?v=1719217726"
+        ]
+      },
+      {
+        "name": "Taylor GS Mini-E Special Edition Acoustic Guitar w/Bag, Vintage Sunburst",
+        "slug": "taylor-gs-mini-e-special-edition-acoustic-guitar",
+        "description": "Taylor GS Mini-E Special Edition Acoustic Guitar with a vintage sunburst finish and a bag.",
+        "excerpt": "Special edition acoustic guitar with vintage sunburst finish and bag.",
+        "price": 18285000,
+        "tags": ["Taylor", "Acoustic Guitar", "Special Edition"],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0117/8740/3323/f…703661867020_496x496_crop_center.jpg?v=1719217723",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0117/8740/3323/f…703661867020_496x496_crop_center.jpg?v=1719217723"
+        ]
+      },
+      {
+        "name": "Taylor 150ce Dreadnought 12-string Acoustic-Electric Guitar w/Case, Natural",
+        "slug": "taylor-150ce-dreadnought-12-string-acoustic-electric-guitar",
+        "description": "Taylor 150ce Dreadnought 12-string Acoustic-Electric Guitar in natural finish with case.",
+        "excerpt": "12-string dreadnought acoustic-electric guitar with case.",
+        "price": 21150000,
+        "tags": ["Taylor", "Acoustic-Electric Guitar", "12-string"],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0117/8740/3323/f…709731136080_496x496_crop_center.jpg?v=1716264635",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0117/8740/3323/f…709731136080_496x496_crop_center.jpg?v=1716264635"
+        ]
+      },
+      {
+        "name": "Taylor 117e Acoustic-Electric Guitar w/Case",
+        "slug": "taylor-117e-acoustic-electric-guitar",
+        "description": "Taylor 117e Acoustic-Electric Guitar with a case.",
+        "excerpt": "Acoustic-electric guitar with case.",
+        "price": 16915000,
+        "tags": ["Taylor", "Acoustic-Electric Guitar"],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0117/8740/3323/f…7a486eef1bd3_496x496_crop_center.jpg?v=1716265528",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0117/8740/3323/f…7a486eef1bd3_496x496_crop_center.jpg?v=1716265528"
+        ]
+      },
+      {
+        "name": "Taylor 50th Anniversary AD14ce-SB LTD AD Grand Auditorium Acoustic Guitar w/Case, Sunburst Top",
+        "slug": "taylor-50th-anniversary-ad14ce-sb-ltd-ad-grand-auditorium-acoustic-guitar",
+        "description": "Taylor 50th Anniversary AD14ce-SB LTD AD Grand Auditorium Acoustic Guitar with a sunburst top and a case.",
+        "excerpt": "50th Anniversary Grand Auditorium Acoustic Guitar with sunburst top.",
+        "price": 42310000,
+        "tags": ["Taylor", "Anniversary Edition", "Grand Auditorium"],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0117/8740/3323/f…713941014530_496x496_crop_center.jpg?v=1714380032",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0117/8740/3323/f…713941014530_496x496_crop_center.jpg?v=1714380032"
+        ]
+      },
+      {
+        "name": "Taylor 50th Anniversary GS Mini-e Rosewood SB LTD Acoustic Guitar w/Case, Sunburst Top",
+        "slug": "taylor-50th-anniversary-gs-mini-e-rosewood-sb-ltd-acoustic-guitar",
+        "description": "Taylor 50th Anniversary GS Mini-e Rosewood SB LTD Acoustic Guitar with a sunburst top and a case.",
+        "excerpt": "50th Anniversary GS Mini-e Rosewood Acoustic Guitar with sunburst top.",
+        "price": 18505000,
+        "tags": ["Taylor", "Anniversary Edition", "GS Mini"],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0117/8740/3323/f…713941616030_496x496_crop_center.jpg?v=1714379130",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0117/8740/3323/f…713941616030_496x496_crop_center.jpg?v=1714379130"
+        ]
+      },
+      {
+        "name": "Taylor 50th Anniversary BE 314ce-LTD Ash/Sitka Grand Auditorium Acoustic Guitar, Kona Burst Top",
+        "slug": "taylor-50th-anniversary-be-314ce-ltd-ash-sitka-grand-auditorium-acoustic-guitar",
+        "description": "Taylor 50th Anniversary BE 314ce-LTD Ash/Sitka Grand Auditorium Acoustic Guitar with a Kona Burst top.",
+        "excerpt": "50th Anniversary Grand Auditorium Acoustic Guitar with Kona Burst top.",
+        "price": 66115000,
+        "tags": ["Taylor", "Anniversary Edition", "Grand Auditorium"],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0117/8740/3323/f…713944204130_496x496_crop_center.jpg?v=1714379126",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0117/8740/3323/f…713944204130_496x496_crop_center.jpg?v=1714379126"
+        ]
+      },
+      {
+        "name": "Taylor 50th Anniversary BE 314ce-LTD Ash/Sitka Grand Auditorium Acoustic Guitar, Natural Top",
+        "slug": "taylor-50th-anniversary-be-314ce-ltd-ash-sitka-grand-auditorium-acoustic-guitar-natural-top",
+        "description": "A limited edition acoustic guitar celebrating Taylor's 50th anniversary, featuring an Ash/Sitka body and a natural top.",
+        "excerpt": "Celebrate Taylor's 50th anniversary with this limited edition Ash/Sitka acoustic guitar with a natural top.",
+        "price": 58180,
+        "tags": ["Taylor", "Acoustic Guitar", "Limited Edition"],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0117/8740/3323/f…713943897540_496x496_crop_center.jpg?v=1714379120",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0117/8740/3323/f…713943897540_496x496_crop_center.jpg?v=1714379120"
+        ]
+      },
+      {
+        "name": "Taylor 50th Anniversary 314ce-LTD Sapele/Sitka Grand Auditorium Acoustic Guitar, Shaded Edge Burst",
+        "slug": "taylor-50th-anniversary-314ce-ltd-sapele-sitka-grand-auditorium-acoustic-guitar-shaded-edge-burst",
+        "description": "A special edition 314ce-LTD featuring a Sapele/Sitka body with a stunning shaded edge burst finish.",
+        "excerpt": "Experience the elegance of the Taylor 50th Anniversary 314ce-LTD with its Sapele/Sitka body and shaded edge burst finish.",
+        "price": 59500,
+        "tags": ["Taylor", "Acoustic Guitar", "Limited Edition"],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0117/8740/3323/f…713940534990_496x496_crop_center.jpg?v=1714379089",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0117/8740/3323/f…713940534990_496x496_crop_center.jpg?v=1714379089"
+        ]
+      },
+      {
+        "name": "Taylor 50th Anniversary 217e-SB Plus LTD Acoustic Guitar w/Case, Sunburst Top",
+        "slug": "taylor-50th-anniversary-217e-sb-plus-ltd-acoustic-guitar-w-case-sunburst-top",
+        "description": "A 50th Anniversary 217e-SB Plus LTD with a vibrant sunburst top, complete with a case.",
+        "excerpt": "Celebrate Taylor's 50th with the 217e-SB Plus LTD featuring a striking sunburst top and included case.",
+        "price": 30405,
+        "tags": ["Taylor", "Acoustic Guitar", "Limited Edition"],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0117/8740/3323/f…713936022860_496x496_crop_center.jpg?v=1714379060",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0117/8740/3323/f…713936022860_496x496_crop_center.jpg?v=1714379060"
+        ]
+      },
+      {
+        "name": "Squier FSR Sonic Telecaster Electric Guitar wWhite Pickguard, Maple FB, Arctic White (B-Stock)",
+        "slug": "squier-fsr-sonic-telecaster-electric-guitar-wwhite-pickguard-maple-fb-arctic-white-b-stock",
+        "description": "A B-stock Sonic Telecaster with a white pickguard and maple fretboard in Arctic White.",
+        "excerpt": "Get a great deal on this B-stock Squier FSR Sonic Telecaster with a maple fretboard and Arctic White finish.",
+        "price": 3730,
+        "tags": ["Squier", "Electric Guitar", "B-Stock"],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0117/8740/3323/f…ab0401c7a72a_496x496_crop_center.jpg?v=1721206737",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0117/8740/3323/f…ab0401c7a72a_496x496_crop_center.jpg?v=1721206737"
+        ]
+      },
+      {
+        "name": "Squier FSR Sonic Stratocaster HSS Electric Guitar wPickguard, Maple FB, Tropical Turquoise (B-Stock)",
+        "slug": "squier-fsr-sonic-stratocaster-hss-electric-guitar-wpickguard-maple-fb-tropical-turquoise-b-stock",
+        "description": "A B-stock Sonic Stratocaster HSS with a maple fretboard and Tropical Turquoise finish.",
+        "excerpt": "This B-stock Squier FSR Sonic Stratocaster HSS comes in a vibrant Tropical Turquoise with a maple fretboard.",
+        "price": 3730,
+        "tags": ["Squier", "Electric Guitar", "B-Stock"],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0117/8740/3323/f…00a404def16b_496x496_crop_center.jpg?v=1721206742",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0117/8740/3323/f…00a404def16b_496x496_crop_center.jpg?v=1721206742"
+        ]
+      },
+      {
+        "name": "Squier Debut Series Telecaster Electric Guitar, Laurel FB, Black",
+        "slug": "squier-debut-series-telecaster-electric-guitar-laurel-fb-black",
+        "description": "A classic Telecaster from the Debut Series with a black finish and a Laurel fretboard.",
+        "excerpt": "The Squier Debut Series Telecaster in black with a Laurel fretboard offers timeless style and great playability.",
+        "price": 2635,
+        "tags": ["Squier", "Electric Guitar"],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0117/8740/3323/f…721110303946_496x496_crop_center.jpg?v=1721110314",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0117/8740/3323/f…721110303946_496x496_crop_center.jpg?v=1721110314"
+        ]
+      },
+      {
+        "name": "Squier Debut Series Telecaster Electric Guitar, Laurel FB, Dakota Red",
+        "slug": "squier-debut-series-telecaster-electric-guitar-laurel-fb-dakota-red",
+        "description": "This Debut Series Telecaster features a Dakota Red finish and a Laurel fretboard.",
+        "excerpt": "The Dakota Red Squier Debut Series Telecaster with a Laurel fretboard is a stylish and affordable option for guitarists.",
+        "price": 2635,
+        "tags": ["Squier", "Electric Guitar"],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0117/8740/3323/f…721025050740_496x496_crop_center.jpg?v=1721025240",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0117/8740/3323/f…721025050740_496x496_crop_center.jpg?v=1721025240"
+        ]
+      },
+      {
+        "name": "Squier Debut Series Telecaster Electric Guitar, Laurel FB, 2-Colour Sunburst",
+        "slug": "squier-debut-series-telecaster-electric-guitar-laurel-fb-2-colour-sunburst",
+        "description": "A Debut Series Telecaster with a 2-Colour Sunburst finish and Laurel fretboard.",
+        "excerpt": "This Squier Debut Series Telecaster with a 2-Colour Sunburst finish is perfect for players looking for a classic look.",
+        "price": 2635,
+        "tags": ["Squier", "Electric Guitar"],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0117/8740/3323/f…721024296480_496x496_crop_center.jpg?v=1721024487",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0117/8740/3323/f…721024296480_496x496_crop_center.jpg?v=1721024487"
+        ]
+      },
+      {
+        "name": "Jackson Concept Series Soloist SL HS Electric Guitar, Walnut",
+        "slug": "jackson-concept-series-soloist-sl-hs-electric-guitar-walnut",
+        "description": "The Jackson Concept Series Soloist SL HS Electric Guitar features a sleek walnut finish, providing a sophisticated look and powerful sound.",
+        "excerpt": "Sleek walnut finish with powerful sound.",
+        "price": 37895000,
+        "tags": ["Jackson", "Electric Guitar", "Soloist", "Walnut"],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0117/8740/3323/files/Jackson_Concept_Series_Soloist_SL_HS_Electric_Guitar_Walnut_662719594150_496x496_crop_center.jpg?v=1721205879",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0117/8740/3323/files/Jackson_Concept_Series_Soloist_SL_HS_Electric_Guitar_Walnut_662719594150_496x496_crop_center.jpg?v=1721205879"
+        ]
+      },
+      {
+        "name": "Jackson Pro Series Signature Chris Broderick Soloist HT7 Electric Guitar, Laurel FB, Gloss Black",
+        "slug": "jackson-pro-series-signature-chris-broderick-soloist-ht7-electric-guitar-laurel-fb-gloss-black",
+        "description": "The Jackson Pro Series Signature Chris Broderick Soloist HT7 Electric Guitar offers a high-performance experience with its gloss black finish and laurel fretboard.",
+        "excerpt": "High-performance gloss black finish with laurel fretboard.",
+        "price": 19610000,
+        "tags": ["Jackson", "Electric Guitar", "Soloist", "Signature", "Gloss Black"],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0117/8740/3323/files/Jackson_Pro_Series_Signature_Chris_Broderick_Soloist_HT7_Electric_Guitar_Laurel_FB_Gloss_Black_648528648610_496x496_crop_center.jpg?v=1721205867",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0117/8740/3323/files/Jackson_Pro_Series_Signature_Chris_Broderick_Soloist_HT7_Electric_Guitar_Laurel_FB_Gloss_Black_648528648610_496x496_crop_center.jpg?v=1721205867"
+        ]
+      },
+      {
+        "name": "Jackson X Series Soloist SLX DX Camo Electric Guitar, Laurel FB, Multi-Color Camo",
+        "slug": "jackson-x-series-soloist-slx-dx-camo-electric-guitar-laurel-fb-multi-color-camo",
+        "description": "The Jackson X Series Soloist SLX DX Camo Electric Guitar stands out with its multi-color camo design and laurel fretboard.",
+        "excerpt": "Distinctive multi-color camo design with laurel fretboard.",
+        "price": 17655000,
+        "tags": ["Jackson", "Electric Guitar", "Soloist", "Camo"],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0117/8740/3323/files/Jackson_X_Series_Soloist_SLX_DX_Camo_Electric_Guitar_Laurel_FB_Multi-Color_Camo_657166907780_496x496_crop_center.jpg?v=1721205864",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0117/8740/3323/files/Jackson_X_Series_Soloist_SLX_DX_Camo_Electric_Guitar_Laurel_FB_Multi-Color_Camo_657166907780_496x496_crop_center.jpg?v=1721205864"
+        ]
+      },
+      {
+        "name": "Jackson MJ Series Dinky DKR MAH Electric Guitar, Ebony FB, Gloss Black",
+        "slug": "jackson-mj-series-dinky-dkr-mah-electric-guitar-ebony-fb-gloss-black",
+        "description": "The Jackson MJ Series Dinky DKR MAH Electric Guitar combines a gloss black finish with an ebony fretboard for a modern, edgy look.",
+        "excerpt": "Modern look with gloss black finish and ebony fretboard.",
+        "price": 41515000,
+        "tags": ["Jackson", "Electric Guitar", "Dinky", "Gloss Black"],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0117/8740/3323/files/Jackson_MJ_Series_Dinky_DKR_MAH_Electric_Guitar_Ebony_FB_Gloss_Black_662654242010_496x496_crop_center.jpg?v=1721205862",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0117/8740/3323/files/Jackson_MJ_Series_Dinky_DKR_MAH_Electric_Guitar_Ebony_FB_Gloss_Black_662654242010_496x496_crop_center.jpg?v=1721205862"
+        ]
+      },
+      {
+        "name": "Jackson MJ Series Soloist SL2 Electric Guitar, Ebony FB, Gloss Black",
+        "slug": "jackson-mj-series-soloist-sl2-electric-guitar-ebony-fb-gloss-black",
+        "description": "The Jackson MJ Series Soloist SL2 Electric Guitar offers exceptional playability with its gloss black finish and ebony fretboard.",
+        "excerpt": "Exceptional playability with gloss black finish and ebony fretboard.",
+        "price": 50950000,
+        "tags": ["Jackson", "Electric Guitar", "Soloist", "Gloss Black"],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0117/8740/3323/files/Jackson_MJ_Series_Soloist_SL2_Electric_Guitar_Ebony_FB_Gloss_Black_677828916790_496x496_crop_center.jpg?v=1721205864",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0117/8740/3323/files/Jackson_MJ_Series_Soloist_SL2_Electric_Guitar_Ebony_FB_Gloss_Black_677828916790_496x496_crop_center.jpg?v=1721205864"
+        ]
+      },
+      {
+        "name": "Jackson Pro Soloist SL2A MAH HT Electric Guitar, Ebony FB, Unicorn White",
+        "slug": "jackson-pro-soloist-sl2a-mah-ht-electric-guitar-ebony-fb-unicorn-white",
+        "description": "Featuring a unicorn white finish, the Jackson Pro Soloist SL2A MAH HT Electric Guitar delivers both stunning looks and premium performance.",
+        "excerpt": "Stunning unicorn white finish with premium performance.",
+        "price": 21680000,
+        "tags": ["Jackson", "Electric Guitar", "Soloist", "Unicorn White"],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0117/8740/3323/files/Jackson_Pro_Soloist_SL2A_MAH_HT_Electric_Guitar_Ebony_FB_Unicorn_White_620376865260_496x496_crop_center.jpg?v=1721205857",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0117/8740/3323/files/Jackson_Pro_Soloist_SL2A_MAH_HT_Electric_Guitar_Ebony_FB_Unicorn_White_620376865260_496x496_crop_center.jpg?v=1721205857"
+        ]
+      },
+      {
+        "name": "Jackson MJ Series Dinky DKR Electric Guitar, Ebony FB, Ice Blue Metallic",
+        "slug": "jackson-mj-series-dinky-dkr-electric-guitar-ebony-fb-ice-blue-metallic",
+        "description": "The Jackson MJ Series Dinky DKR Electric Guitar in Ice Blue Metallic combines a striking finish with high-performance features.",
+        "excerpt": "Striking ice blue metallic finish with high-performance features.",
+        "price": 41515000,
+        "tags": ["Jackson", "Electric Guitar", "Dinky", "Ice Blue Metallic"],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0117/8740/3323/files/Jackson_MJ_Series_Dinky_DKR_Electric_Guitar_Ebony_FB_Ice_Blue_Metallic_625121298680_496x496_crop_center.jpg?v=1721205854",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0117/8740/3323/files/Jackson_MJ_Series_Dinky_DKR_Electric_Guitar_Ebony_FB_Ice_Blue_Metallic_625121298680_496x496_crop_center.jpg?v=1721205854"
+        ]
+      },
+      {
+        "name": "Gretsch Electromatic Pristine LTD Center Block Double-Cut Electric Guitar w/Bigsby, Petrol",
+        "slug": "gretsch-electromatic-pristine-ltd-center-block-double-cut-electric-guitar-w-bigsby-petrol",
+        "description": "The Gretsch Electromatic Pristine LTD Center Block Double-Cut Electric Guitar in Petrol features a classic double-cutaway design with a bigsby tremolo system for a vintage-inspired tone and feel.",
+        "excerpt": "Classic double-cutaway design with bigsby tremolo in petrol finish.",
+        "price": 18505000,
+        "tags": ["Gretsch", "Electromatic", "Center Block", "Double-Cut", "Petrol"],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0117/8740/3323/files/gretsch-electromatic-pristine-ltd-center-block-double-cut-electric-guitar-w-bigsby-petrol_715681977500_496x496_crop_center.jpg?v=1721205055",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0117/8740/3323/files/gretsch-electromatic-pristine-ltd-center-block-double-cut-electric-guitar-w-bigsby-petrol_715681977500_496x496_crop_center.jpg?v=1721205055"
+        ]
+      },
+      {
+        "name": "Gretsch G5622T Electromatic Center Block Double-Cut Electric Guitar w/Bigsby, Cadillac Green",
+        "slug": "gretsch-g5622t-electromatic-center-block-double-cut-electric-guitar-w-bigsby-cadillac-green",
+        "description": "The Gretsch G5622T Electromatic Center Block Double-Cut Electric Guitar in Cadillac Green offers a rich, resonant tone with a stylish design and bigsby tremolo.",
+        "excerpt": "Rich tone and stylish design with bigsby tremolo in Cadillac Green.",
+        "price": 17180000,
+        "tags": ["Gretsch", "Electromatic", "Center Block", "Double-Cut", "Cadillac Green"],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0117/8740/3323/files/gretsch-g5622t-electromatic-center-block-double-cut-electric-guitar-w-bigsby-cadillac-green_715606599490_496x496_crop_center.jpg?v=1721205054",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0117/8740/3323/files/gretsch-g5622t-electromatic-center-block-double-cut-electric-guitar-w-bigsby-cadillac-green_715606599490_496x496_crop_center.jpg?v=1721205054"
+        ]
+      },
+      {
+        "name": "Gretsch Electromatic Pristine LTD Center Block Double-Cut Electric Guitar w/Bigsby, White Gold",
+        "slug": "gretsch-electromatic-pristine-ltd-center-block-double-cut-electric-guitar-w-bigsby-white-gold",
+        "description": "The Gretsch Electromatic Pristine LTD Center Block Double-Cut Electric Guitar in White Gold combines elegant aesthetics with the rich sound of a bigsby-equipped guitar.",
+        "excerpt": "Elegant White Gold finish with rich bigsby sound.",
+        "price": 18505000,
+        "tags": ["Gretsch", "Electromatic", "Center Block", "Double-Cut", "White Gold"],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0117/8740/3323/files/gretsch-electromatic-pristine-ltd-center-block-double-cut-electric-guitar-w-bigsby-white-gold_715682457810_496x496_crop_center.jpg?v=1721205055",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0117/8740/3323/files/gretsch-electromatic-pristine-ltd-center-block-double-cut-electric-guitar-w-bigsby-white-gold_715682457810_496x496_crop_center.jpg?v=1721205055"
+        ]
+      },
+      {
+        "name": "Gretsch Electromatic Pristine LTD Jet Electric Guitar w/Bigsby, Laurel FB, White Gold",
+        "slug": "gretsch-electromatic-pristine-ltd-jet-electric-guitar-w-bigsby-laurel-fb-white-gold",
+        "description": "The Gretsch Electromatic Pristine LTD Jet Electric Guitar features a White Gold finish and Laurel fretboard, offering a sleek look and impressive sound.",
+        "excerpt": "Sleek White Gold finish with Laurel fretboard.",
+        "price": 15860000,
+        "tags": ["Gretsch", "Electromatic", "Jet", "White Gold"],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0117/8740/3323/files/gretsch-electromatic-pristine-ltd-jet-electric-guitar-w-bigsby-laurel-fb-white-gold_715679057500_496x496_crop_center.jpg?v=1721205055",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0117/8740/3323/files/gretsch-electromatic-pristine-ltd-jet-electric-guitar-w-bigsby-laurel-fb-white-gold_715679057500_496x496_crop_center.jpg?v=1721205055"
+        ]
+      },
+      {
+        "name": "Gretsch Electromatic Pristine LTD Center Block Double-Cut Guitar w/Bigsby, Dark Cherry Metallic",
+        "slug": "gretsch-electromatic-pristine-ltd-center-block-double-cut-guitar-w-bigsby-dark-cherry-metallic",
+        "description": "The Gretsch Electromatic Pristine LTD Center Block Double-Cut Guitar in Dark Cherry Metallic offers a deep, resonant tone with a striking appearance and bigsby tremolo.",
+        "excerpt": "Deep tone and striking Dark Cherry Metallic finish.",
+        "price": 18505000,
+        "tags": ["Gretsch", "Electromatic", "Center Block", "Double-Cut", "Dark Cherry Metallic"],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0117/8740/3323/files/gretsch-electromatic-pristine-ltd-center-block-double-cut-guitar-w-bigsby-dark-cherry-metallic_715681576020_496x496_crop_center.jpg?v=1721205054",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0117/8740/3323/files/gretsch-electromatic-pristine-ltd-center-block-double-cut-guitar-w-bigsby-dark-cherry-metallic_715681576020_496x496_crop_center.jpg?v=1721205054"
+        ]
+      },
+      {
+        "name": "Gretsch Electromatic Pristine LTD Jet Electric Guitar w/Bigsby, Laurel FB, Petrol",
+        "slug": "gretsch-electromatic-pristine-ltd-jet-electric-guitar-w-bigsby-laurel-fb-petrol",
+        "description": "The Gretsch Electromatic Pristine LTD Jet Electric Guitar in Petrol features a distinctive look and the rich, resonant tone associated with Gretsch guitars.",
+        "excerpt": "Distinctive Petrol finish with rich Gretsch tone.",
+        "price": 15860000,
+        "tags": ["Gretsch", "Electromatic", "Jet", "Petrol"],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0117/8740/3323/files/gretsch-electromatic-pristine-ltd-jet-electric-guitar-w-bigsby-laurel-fb-petrol_715678214300_496x496_crop_center.jpg?v=1721205052",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0117/8740/3323/files/gretsch-electromatic-pristine-ltd-jet-electric-guitar-w-bigsby-laurel-fb-petrol_715678214300_496x496_crop_center.jpg?v=1721205052"
+        ]
+      },
+      {
+        "name": "Gretsch Electromatic Pristine LTD Jet Electric Guitar w/Bigsby, Laurel FB, Mako",
+        "slug": "gretsch-electromatic-pristine-ltd-jet-electric-guitar-w-bigsby-laurel-fb-mako",
+        "description": "The Gretsch Electromatic Pristine LTD Jet Electric Guitar in Mako combines classic Gretsch aesthetics with modern playability and a bigsby tremolo system, making it a versatile choice for many styles.",
+        "excerpt": "Classic Gretsch aesthetics with modern playability in Mako finish.",
+        "price": 15860000,
+        "tags": ["Gretsch", "Electromatic", "Jet", "Laurel FB", "Mako"],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0117/8740/3323/files/gretsch-electromatic-pristine-ltd-jet-electric-guitar-w-bigsby-laurel-fb-mako_715681162120_496x496_crop_center.jpg?v=1721205051",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0117/8740/3323/files/gretsch-electromatic-pristine-ltd-jet-electric-guitar-w-bigsby-laurel-fb-mako_715681162120_496x496_crop_center.jpg?v=1721205051"
+        ]
+      },
+      {
+        "name": "Gretsch G6134TGQM-59 Limited Edition Quilt Classic Penguin w/Bigsby Electric Guitar, Forge Glow",
+        "slug": "gretsch-g6134tgqm-59-limited-edition-quilt-classic-penguin-w-bigsby-electric-guitar-forge-glow",
+        "description": "The Gretsch G6134TGQM-59 Limited Edition Quilt Classic Penguin w/Bigsby features a stunning quilted maple top in Forge Glow finish, offering exceptional sound and visual appeal with its bigsby tremolo.",
+        "excerpt": "Stunning quilted maple top with exceptional sound and Forge Glow finish.",
+        "price": 78015000,
+        "tags": ["Gretsch", "Limited Edition", "Classic Penguin", "Quilted Maple", "Forge Glow"],
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0117/8740/3323/files/gretsch-g6134tgqm-59-limited-edition-quilt-classic-penguin-w-bigsby-electric-guitar-forge-glow_715677713610_496x496_crop_center.jpg?v=1721205052",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0117/8740/3323/files/gretsch-g6134tgqm-59-limited-edition-quilt-classic-penguin-w-bigsby-electric-guitar-forge-glow_715677713610_496x496_crop_center.jpg?v=1721205052"
+        ]
+      }
+      
+  ]
+}
